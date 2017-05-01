@@ -5,6 +5,9 @@ Allsafe is strategy tower-defense like game. Enhance your security system to def
 
 There are many threats coming from the Internet. Enhance your security system to defend against these threats and protect important information. Use points to purchase and tactically implement new security hardware and software to be able to face upcoming threats. Facing some of these threats is usually not very easy and you should use your fantasy and logical analysis to build strong and impenetrable defence system in front of your data system.
 
+# Preview on YouTube
+[![Youtube video](https://img.youtube.com/vi/FpdHlZ9ywA4/0.jpg)](https://youtu.be/FpdHlZ9ywA4)
+
 # Dowload
 
 <a href="https://play.google.com/store/apps/details?id=sk.ovocinari.allsafe"><img alt="Android app on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="200"/>
