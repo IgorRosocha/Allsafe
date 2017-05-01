@@ -7,7 +7,7 @@ There are many threats coming from the Internet. Enhance your security system to
 
 # Dowload
 
-<a href="https://play.google.com/store/apps/details?id=sk.ovocinari.allsafe"><img alt="Android app on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
+<a href="https://play.google.com/store/apps/details?id=sk.ovocinari.allsafe"><img alt="Android app on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="width: 200px;"/>
 </a>
 
 APK file also available [here](https://git.kpi.fei.tuke.sk/ps164ky/AllSafe/master/bin/allsafe.apk)
@@ -25,4 +25,4 @@ Special thanks to Ing. Miroslav Biňas PhD.
 [Igor Rosocha]: <mailto:igor.rosocha@student.tuke.sk>
 
 # License
-*Allsafe* is available under the MIT license. See the [license.txt](https://git.kpi.fei.tuke.sk/ps164ky/AllSafe/master/license.txt) file for more info.
+*Allsafe* is available under the MIT license. See the [license.txt](https://git.kpi.fei.tuke.sk/ps164ky/AllSafe/blob/master/licence.txt) file for more info.
