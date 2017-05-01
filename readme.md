@@ -7,10 +7,10 @@ There are many threats coming from the Internet. Enhance your security system to
 
 # Dowload
 
-<a href="https://play.google.com/store/apps/details?id=sk.ovocinari.allsafe"><img alt="Android app on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="width: 200px;"/>
+<a href="https://play.google.com/store/apps/details?id=sk.ovocinari.allsafe"><img alt="Android app on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="200"/>
 </a>
 
-APK file also available [here](https://git.kpi.fei.tuke.sk/ps164ky/AllSafe/master/bin/allsafe.apk)
+APK file also available [here](https://git.kpi.fei.tuke.sk/ps164ky/AllSafe/blob/master/bin/allsafe.apk)
 
 # Credits
 Created by: [Dominik Sečka], [Lukáš Prokein], [Patrik Seman], [Igor Rosocha]
